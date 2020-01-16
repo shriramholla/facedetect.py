@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67d1ea7a-df6a-444f-9fdc-f31251ffc9e5" name="Default Changelist" comment="" />
+    <list default="true" id="67d1ea7a-df6a-444f-9fdc-f31251ffc9e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_6253.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facedetect.py" beforeDir="false" afterPath="$PROJECT_DIR$/facedetect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
